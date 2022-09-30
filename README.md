@@ -6,6 +6,8 @@ guardado no inventário tanto do jogador quanto em baús, que também se comport
 de si mesma, assim gerando uma capacidade teoricamente infinita de espaço para armazenamento de itens. Prossigamos para
 a implementação.
 
+<iframe src="https://giphy.com/embed/MY1KAimvtdYoWyzmGO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MY1KAimvtdYoWyzmGO">via GIPHY</a></p>
+
 1. Começamos com a implementação de uma classe genérica para itens gerais que são guardados nos inventários.
 
 ```java
