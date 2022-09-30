@@ -103,7 +103,7 @@ public class InventarioJogador extends InventarioAbstract { }
 public class Shulker extends ItemInventarioAbstract { }
 ```
 
-# Classe responsável por realizar o controle dos dados:
+6. Output do código:
 
 ```java
 public class Main {
@@ -182,8 +182,6 @@ public class Main {
     }
 }
 ```
-
-6. Output do código:
 
 ```
 - 1 - Shulker de shulkers
